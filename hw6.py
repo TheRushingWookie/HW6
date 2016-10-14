@@ -63,7 +63,7 @@ def sorted_matrix_search(matrix, target):
 # ----------
 # Example 1:
 #   Input: [2,3,4,5]
-#       Output should be [3*4*5, 2*4*5, 2*3*4]
+#       Output should be [3*4*5, 2*4*5, 2*3*5, 2*3*4]
 #   Output: [60, 40, 30, 24]
 #
 # Example 2:
