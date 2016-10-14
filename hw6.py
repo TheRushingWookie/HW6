@@ -121,8 +121,10 @@ def pascals_triangle(i):
 
 # Alive People
 #
-# Write a function that, given a list of strings representing a person's birth year and their final age,
+# Write a function that, given a list of strings representing a person's birth year: age of death,
 # will return the year that had the most people alive (inclusive). If there are multiple years that tie, return the earliest.
+# You can think of a birthdate and a deathdate as a range of years. Of all the birth years in the list, find the one where the highest
+# amount of people in the list were still alive.
 #
 # Examples
 # ----------
