@@ -382,7 +382,7 @@ def gene_manipulation(gene):
 # -------
 # String
 #    Longest Palindrome substring
-def longestPalindromeSubstring(word):
+def longest_palindrome_substring(word):
     pass
 
 # Longest Unique Substring
@@ -417,7 +417,7 @@ def longestPalindromeSubstring(word):
 # -------
 # String
 #    Longest unique substring
-def longestUniqueSubstring(word):
+def longest_unique_substring(word):
     pass
 
 # Three Sum
@@ -454,5 +454,5 @@ def longestUniqueSubstring(word):
 # -------
 # 2d array
 #    2d list, inner lists are triplets that add up to target.
-def threeSum(arr, target):
+def three_sum(arr, target):
     pass
